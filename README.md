@@ -7,6 +7,7 @@ Healthcare Management System (HMS) is responsible for an efficient resources all
 - Helps in the planning of doctors' and nurses' scheduling.
 - Helps to manage the inventory and to keep anticipated tools furnished.
 - Helps to plan and manage the beds.
+
 In this paper, we propose a forecast model which uses neural networks to predict the patients' length of stay in a hospital. The modern trends of hospital database systems are known to be adopting electronic health records (EHR) to store the patients' data. The popularity of EHR has created a massive opportunity to explore the data and build the efficient prediction models. Deep Learning offers a variety of data modeling algorithms. Neural networks are amongst the popular algorithms to model healthcare data.
 
 # Challenges in data
@@ -27,4 +28,5 @@ The doctor's writings sometimes possess the heavily aggregated information. If a
 - EHR data together with doctors' natural language data incorporate the maximum information.
 - EHR data helps to ascertain the information available in doctors' reports.
 - The lost information in one data type is recovered by another.
+
 The two different types of data with maximum information are used to feed the model. We propose a suitable neural network architecture to process the two types of data using the most effective algorithms.
